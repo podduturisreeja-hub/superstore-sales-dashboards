@@ -1,5 +1,9 @@
 # 🛒 Supermarket Sales Performance Dashboard (Power BI)
+## 📸 Dashboard Preview
 
+<p align="center">
+  <img src="dashboard-preview.png" width="900"/>
+</p>
 ## 📊 Overview
 This project presents an interactive Power BI dashboard analyzing supermarket sales data.  
 It provides insights into revenue trends, product performance, branch distribution, and customer behavior.
