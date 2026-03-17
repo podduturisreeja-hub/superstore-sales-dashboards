@@ -43,11 +43,6 @@ It provides insights into revenue trends, product performance, branch distributi
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
-
----
-
 ## 📂 Files Included
 - Power BI Dashboard (.pbix)
 - Dataset
