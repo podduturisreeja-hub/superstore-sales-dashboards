@@ -1,16 +1,16 @@
-# 🛒 Supermarket Sales Performance Dashboard (Power BI)
-## 📸 Dashboard Preview
+#  Supermarket Sales Performance Dashboard (Power BI)
+##  Dashboard Preview
 
 <p align="center">
   <img src="dashboard-preview.png" width="900"/>
 </p>
-## 📊 Overview
+##  Overview
 This project presents an interactive Power BI dashboard analyzing supermarket sales data.  
 It provides insights into revenue trends, product performance, branch distribution, and customer behavior.
 
 ---
 
-## 📌 Key Metrics
+##  Key Metrics
 - Total Revenue
 - Total Profit
 - Profit Margin (%)
@@ -19,7 +19,7 @@ It provides insights into revenue trends, product performance, branch distributi
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Certain product categories generate high revenue but lower profit margins
 - Sales trends fluctuate across time, highlighting peak business periods
 - Branch-wise performance varies significantly
@@ -27,7 +27,7 @@ It provides insights into revenue trends, product performance, branch distributi
 
 ---
 
-## 🎯 Features
+##  Features
 - Interactive slicers (Date, City, Product Line, Payment)
 - Revenue trend analysis over time
 - Product line revenue vs profit comparison
@@ -35,7 +35,7 @@ It provides insights into revenue trends, product performance, branch distributi
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Power BI
 - DAX
 - Data Modeling
@@ -43,14 +43,14 @@ It provides insights into revenue trends, product performance, branch distributi
 
 ---
 
-## 📂 Files Included
+##  Files Included
 - Power BI Dashboard (.pbix)
 - Dataset
 - Dashboard Preview Image
 
 ---
 
-## 🚀 Project Purpose
+##  Project Purpose
 This project demonstrates my ability to:
 - Clean and transform data
 - Build interactive dashboards
